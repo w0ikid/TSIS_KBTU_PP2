@@ -1,0 +1,1 @@
+print(get_movies_by_category("Suspense"))
